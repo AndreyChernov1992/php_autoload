@@ -1,0 +1,17 @@
+{
+    "name": "lovecraft/localhost",
+    "description": "a",
+    "authors": [
+        {
+            "name": "Coldsun",
+            "email": "robotsdontcry92@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "App/"
+        }
+    }
+}
